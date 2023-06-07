@@ -10,7 +10,7 @@
 
 ## Feito por:
 
-### Joana Santos
+### Ricardo Freitas
 
 ### Linkedin: https://www.linkedin.com/in/ricardo-freitas-972095256/
 
