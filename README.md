@@ -1,5 +1,9 @@
+```
+
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
-![image](file:///var/folders/7_/zhdxwrv51kq853mx67sfk41m0000gn/T/TemporaryItems/NSIRD_screencaptureui_SkgGMf/Screenshot%202023-06-07%20at%2014.21.14.png)
+
+![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
+
 ## Ferramentas utilizadas:
 
 * HTML
@@ -10,7 +14,8 @@
 
 ## Feito por:
 
-### Ricardo Freitas
+### Joana Santos
 
-### Linkedin: https://www.linkedin.com/in/ricardo-freitas-972095256/
+### Linkedin: https://www.linkedin.com/school/aluracursos/
 
+```
